@@ -16,3 +16,5 @@ With Salesforce Data Cloud, organizations can unify customer data from multiple 
 5) Lightning Web Components (LWC) – A modern framework for building responsive UI components.
 6) Salesforce Flows – A no-code automation tool to streamline business processes.
 7) REST APIs – Secure integration with external applications and services.
+
+This repository serves as a guide to setting up and implementing Salesforce Data Cloud with AI to create a smarter, more automated, and customer-centric experience. 
